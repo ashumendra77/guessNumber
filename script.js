@@ -39,8 +39,7 @@ const check = document.querySelector('.check').addEventListener('click', functio
     }
 });
 
-// console.log(check);
-
+ 
 // document.querySelector('.number').textContent = secretNumber;
 // const guessNumber = document.querySelector('.guess').value;
 // console.log(guessNumber);
